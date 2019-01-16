@@ -2,7 +2,7 @@
 
 **_Five lessons from the Advent of Code_**
 
-To create the presentation slides from the Jupyter notebook, run this:
+To generate and view the slides, run this:
 
 ```sh
 jupyter nbconvert 2019-01-16-PyData.ipynb --to slides --post serve
